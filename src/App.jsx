@@ -6,10 +6,10 @@ const App = () => {
     <main>
       <div className="main">
         <div className="gradient" />
-        <div className="App">
-          <Hero />
-          <Demo />
-        </div>
+      </div>
+      <div className="app">
+        <Hero />
+        <Demo />
       </div>
     </main>
   );
